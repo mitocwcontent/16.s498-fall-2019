@@ -1,0 +1,22 @@
+---
+content_type: page
+title: Lecture Notes
+uid: 5b00b886-ab73-f186-4406-8aec0a836772
+---
+
+| LEC # | TOPICS |
+| --- | --- |
+|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction and Overview of the Course (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l1) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Overview of Nonlinear Optimization (PDF - 6.1MB)]({{< baseurl >}}/resources/mit16_s498f19_l2) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sum of Squares for Nonlinear Optimization (PDF - 4.7MB)]({{< baseurl >}}/resources/mit16_s498f19_l3) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Measure and Moments for Nonlinear Optimization (PDF - 5.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l4) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Duality of SOS and Moment-Based SDPs (PDF - 6MB)]({{< baseurl >}}/resources/mit16_s498f19_l5) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Modified Sum-of-Squares Relaxations for Large-Scale Optimizations (PDF - 5MB)]({{< baseurl >}}/resources/mit16_s498f19_l6) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nonlinear Chance-Constrained and Chance Optimization (PDF - 6.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l7) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Nonlinear Robust and Distributionally Robust Chance-Constrained Optimization (PDF - 4.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l8) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Algorithms for Large-Scale Semidefinite Programs (Guest Lecture) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Probabilistic Nonlinear Safety Verification (PDF - 9.2MB)]({{< baseurl >}}/resources/mit16_s498f19_l10) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Risk Aware Planning and Control of Probabilistic Nonlinear Dynamical Systems (PDF - 6.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l11) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Mean-and-Covariance–Based Control and Safety Verification of Probabilistic Dynamical Systems (PDF - 4.8MB)]({{< baseurl >}}/resources/mit16_s498f19_l12) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Occupation-Measure–Based Control of Continuous-Time Nonlinear Dynamical Systems (PDF - 3.5MB)]({{< baseurl >}}/resources/mit16_s498f19_l13) {{< br >}}{{< br >}}  |
+|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Sum-of-Squares Optimization-Based Robust Planning for Uncertain Nonlinear Systems (PDF - 3.3MB)]({{< baseurl >}}/resources/mit16_s498f19_l14) {{< br >}}{{< br >}}
